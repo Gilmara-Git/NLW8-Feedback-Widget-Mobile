@@ -44,6 +44,7 @@ Backend
 - typescript
 - express for the server
 - nodemailer (To send Emails)
+- mailtrap
 - ts-node-dev-D (similar do nodemon, but integrated with typescript - It does live reload when anything is updated)
 - axios to perform request to the backend
 
