@@ -53,12 +53,14 @@ Database
 - @prisma/client ( production)
 - prisma studio
 - SQlite
+- Insominia to test with records are being registered in the database
 
-
-Instructor:
+Instructor Mobile:
 
 [Rodrigo Gonçalves](https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-santana/)
 
+Instructor backend: 
+[Diego Fernandes](https://github.com/diego3g)
 ## Platform
 Youtube: Online event opened during a Week.
 
