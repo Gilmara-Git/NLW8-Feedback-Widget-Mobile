@@ -17,6 +17,7 @@ This application allows users to send feedbacks about your app or website.
 It has been styled to be located to the bottom right corner of the page.
 There are 3 types of feedbacks to choose, an **issue**, an **idea** or **other**.
 Users can also take a screenshot and send along with their feedback.
+Upon sending a feedback, an email is sent to the user with their **comment** and the **screenshot** taken. (Optional)
 
 ## Motivation
 Practice and learn **React Native** with experts. 
